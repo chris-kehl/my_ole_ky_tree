@@ -6,8 +6,6 @@
 * The trained deepleaning model can be found at the following git hub repository https://github.com/chris-kehl/Kentucky_Tree_classifier.
 * I used Google Colab to create the machine learning models to take advantage of the GPU's and the convience of cloud computing,
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chris-kehl/my_ole_ky_tree/HEAD?urlpath=%2Fvoila%2Frender%2Fky_tree_app.ipynb)
-* The trained deepleaning model can be found at the following git hub repository https://github.com/chris-kehl/Kentucky_Tree_classifier.
-* I used Google Colab to create the machine learning models to take advantage of the GPU's and the convience of cloud computing,
 * It is best to view the projects in google colab, the repositories will allow you to open the public Google Colab projects.
 
 To share a little background of the project, basically I know very little about tree identification.  I just moved out of the city into a wooded
